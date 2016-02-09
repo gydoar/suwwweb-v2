@@ -6,7 +6,7 @@
 		<li><a href="#"><img width="33px" src="assets/images/icons/icon-tel.png" alt=""> &nbsp;(57 - 1) 3000 754 / 755</a></li>
 		<li></li>
 		<li><a href="mailto:info@suwwweb.com"><img width="33px" src="assets/images/icons/icon-mail.png" alt=""> &nbsp;info@suwwweb.com</a></li>
-		<li><a class="button-blue" href="#">CONTÁCTENOS</a></li>
+		<li><a class="button-blue fancybox fancybox.iframe" href="contacto.php">CONTÁCTENOS</a></li>
 	</ul>
 </div>
 
@@ -56,10 +56,10 @@
 
 		<div class="social__footer twelve columns">
 			<ul>
-				<li><a href="#"><img width="35px;" src="assets/images/icons/icon-facebook.png" alt=""></a></li>
-				<li><a href="#"><img width="35px;" src="assets/images/icons/icon-twitter.png" alt=""></a></li>
-				<li><a href="#"><img width="35px;" src="assets/images/icons/icon-linkedin.png" alt=""></a></li>
-				<li><a href="#"><img width="35px;" src="assets/images/icons/icon-behance.png" alt=""></a></li>
+				<li><a target="new" href="https://www.facebook.com/suWWWeb/"><img width="35px;" src="assets/images/icons/icon-facebook.png" alt=""></a></li>
+				<li><a target="new" href="https://twitter.com/suwwweb"><img width="35px;" src="assets/images/icons/icon-twitter.png" alt=""></a></li>
+				<li><a target="new" href="https://www.linkedin.com/company/suwwweb-s-a-s"><img width="35px;" src="assets/images/icons/icon-linkedin.png" alt=""></a></li>
+				<li><a target="new" href="https://www.behance.net/suwwweb"><img width="35px;" src="assets/images/icons/icon-behance.png" alt=""></a></li>
 				<li><a href="#"><img width="35px;" src="assets/images/icons/icon-wordpress.png" alt=""></a></li>
 			</ul>
 			<div class="line__divi__footer ten columns offset-by-one"></div>
@@ -72,8 +72,20 @@
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script src="assets/js/owl.carousel.js"></script>
+
+	<script src="assets/js/responsive-nav.js"></script>
+	<script src="assets/js/fastclick.js"></script>
+	<script src="assets/js/fixed-responsive-nav.js"></script>
+
+	<script src="assets/js/jquery.fancybox.pack.js"></script>
+	<script src="assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
+	<script src="assets/js/jquery.fancybox.js"></script>
+	<script src="assets/js/jquery.fancybox-buttons.js"></script>
+
+	
+
 	<script src="assets/js/script.js"></script>
 </body>
 </html>

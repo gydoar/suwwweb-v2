@@ -32,7 +32,7 @@
 					<hr>
 					<li><img width="23px" src="assets/images/table-pricing/icon-x.png" alt=""></li>
 					<span><hr></span>
-					<li><a class="button-blue" href="#">ADQUIRIR</a></li>
+					<li><a class="button-blue" href="plan-personal.php">ADQUIRIR</a></li>
 				</ul>
  			</div>
 
@@ -60,7 +60,7 @@
 					<hr>
 					<li><p>$150.000 en Google Adwords</p></li>
 					<span><hr></span>
-					<li><a class="button-green" href="#">ADQUIRIR</a></li>
+					<li><a class="button-green" href="plan-empresarial.php">ADQUIRIR</a></li>
 				</ul>
  			</div>
  		</div>
@@ -76,7 +76,7 @@
 				
 				<div class="text__amedida">
 					<p>Para aquellas personas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
-					<a class="button-blue" href="#">COTIZAR</a>
+					<a class="fancybox fancybox.iframe button-blue" href="contacto.php">COTIZAR</a>
 					<div class="line__pricing__table__amedida"><hr></div>
 					<a href="mailto:info@suwwweb.com">info@suwwweb.com</a>
 					<p><a href="#">(57 - 1) 3000 754 / 755</a></p>

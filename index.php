@@ -10,8 +10,8 @@
         <span>Páginas web / Posicionamiento / Imagen corporativa</span>
         
         <div class="boton-principal">
-          <a class="button-blue" href="#">NUESTROS PLANES</a>
-          <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+          <a class="button-blue" href="paginas-web.php">NUESTROS PLANES</a>
+          <a  class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -28,7 +28,7 @@
             <img width="73px" src="assets/images/icons/icon-paginas-web.png" alt="">
             <h3>PÁGINAS WEB <hr></h3>
             <p>Páginas web para todos los dispositivos, diseños personalizados de alto impacto y a la medida de su presupuesto.</p>
-            <a class="button-blue" href="#">INFORMACIÓN</a>
+            <a class="button-blue" href="paginas-web.php">INFORMACIÓN</a>
           </div>
          <div class="four columns hacemos__cajas">
             <img width="73px" src="assets/images/icons/icon-posicionamiento.png" alt="">
@@ -40,7 +40,7 @@
             <img width="73px" src="assets/images/icons/icon-imagen.png" alt="">
             <h3>IMAGEN CORPORATIVA <hr></h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati placeat eum aspernatur error voluptas, iure doloribus.</p>
-            <a class="button-blue" href="#">INFORMACIÓN</a>
+            <a class="button-blue" href="imagen-corporativa.php">INFORMACIÓN</a>
           </div>
         </div>
     </div>   
@@ -79,7 +79,7 @@
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="#">MAS INFORMACIÓN</a>
+                <a class="button-green" href="plan-personal.php">MAS INFORMACIÓN</a>
                 <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
@@ -102,7 +102,7 @@
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="#">MAS INFORMACIÓN</a>
+                <a class="button-green" href="plan-empresarial.php">MAS INFORMACIÓN</a>
                 <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
@@ -160,8 +160,8 @@
           </ul>
         </div>
          <div class="boton-principal center">
-            <a class="button-blue-2" href="#">MAS INFORMACIÓN</a>
-            <a href="#"><img width="38px" src="assets/images/icons/icon-contact-white.png" alt=""></a>
+            <a class="button-blue-2" href="tienda-online.php">MAS INFORMACIÓN</a>
+            <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-white.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -193,7 +193,7 @@
 
               <div class="boton-principal">
                 <a class="button-green" href="#">MAS INFORMACIÓN</a>
-                <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="fancybox fancybox.iframe"  href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 
@@ -252,8 +252,8 @@
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="#">MAS INFORMACIÓN</a>
-                <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="button-green" href="imagen-corporativa.php">MAS INFORMACIÓN</a>
+                <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 

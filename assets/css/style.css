@@ -1087,3 +1087,26 @@ ul.pricing img{
 .check-tienda ul li p, .check-tienda ul li p img{
 	vertical-align: middle;
 }
+
+/***** Formulario de contacto ******/
+.header__form{
+	background-color: #00202e;
+	padding: 10px 0px;
+}
+.header__form h3{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	color: #ffffff;
+	letter-spacing: 1px;
+	font-size: 34px;
+}
+.fancybox-skin{
+	padding: 0px !important;
+}
+
+.line__header__form hr{
+	width: 80px;
+	border-top: 3px solid #00202e;
+	position: relative;
+	top: -8px;
+}

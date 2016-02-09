@@ -29,7 +29,7 @@
         </ul>
 		
         <div class="boton-principal center">
-            <a class="button-green" href="#">ADQUIRIR</a>
+            <a class="button-green fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a>
         </div>
 
 	</div>
@@ -83,7 +83,7 @@
 
  <div class="call-to-action-adquirir">
 	<div class="container center">
-		<p><span>PLAN EMPRESARIAL</span> IDEAL PARA PEQUEÑAS EMPRESAS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call" href="#">ADQUIRIR</a></p>
+		<p><span>PLAN EMPRESARIAL</span> IDEAL PARA PEQUEÑAS EMPRESAS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a></p>
 	</div>
 </div>
 
@@ -101,7 +101,7 @@
 
 		<div class="row">
 			<div class="four columns">
-				<a href="">
+				<a href="plan-personal.php">
 					<img width="100px;" src="assets/images/otros-productos/icon-personal.png" alt="">
 					<h2>PLAN PERSONAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
@@ -121,7 +121,7 @@
 			</div>
 
 			<div class="four columns">
-				<a href="">
+				<a href="tienda-online.php">
 					<img width="100px;" src="assets/images/otros-productos/icon-tienda.png" alt="">
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
