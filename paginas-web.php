@@ -20,7 +20,7 @@
 				<ul class="pricing">
 					<li><p>5 Páginas internas</p></li>
 					<hr>
-					<li><p>3 Cuuentas de correo</p></li>
+					<li><p>3 Cuentas de correo</p></li>
 					<hr>
 					<li><img width="23px" src="assets/images/table-pricing/icon-x.png" alt=""></li>
 					<hr>

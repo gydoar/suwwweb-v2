@@ -1,13 +1,41 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+  
+  <?php 
+    $titulos = [
+    'index.php' => 'suWWWeb: Páginas web para empresas',
+    'paginas-web.php' => 'suWWWeb: Páginas web',
+    'plan-personal.php' => 'suWWWeb: Páginas web > Plan personal',
+    'plan-empresarial.php' => 'suWWWeb: Páginas web > Plan empresarial',
+    'tienda-online.php' => 'suWWWeb: Páginas web > Tienda online',
+    'imagen-corporativa.php' => 'suWWWeb: Imagen corporativa',
 
+    ];
+
+    $uri = end(explode("/", $_SERVER['PHP_SELF']));
+   ?>
+
+
+   <?php 
+    $descripcion = [
+    'index.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'paginas-web.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'plan-personal.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'plan-empresarial.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'tienda-online.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'imagen-corporativa.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+
+    ];
+
+    $uri = end(explode("/", $_SERVER['PHP_SELF']));
+   ?>
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>Your page title here :)</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <title><?php echo $titulos[$uri]; ?></title>
+  <meta name="description" content="<?php echo $descripcion[$uri]; ?>">
+  <meta name="author" content="suWWWeb">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->

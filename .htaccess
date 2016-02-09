@@ -1,3 +1,11 @@
+redirect 301 /diseno-web/plan-economico http://www.suwwweb.com/ 
+redirect 301 /clientes/nuestros-trabajos http://www.suwwweb.com/#proyect 
+redirect 301 /diseno-web/plan-pymes http://www.suwwweb.com/#our-service
+redirect 301 /diseno-web/plan-basico-pymes http://www.suwwweb.com/#our-service
+redirect 301 /soporte/contactenos http://www.suwwweb.com/#contact
+
+ErrorDocument 404 /404.html
+
 # Fix Rewrite
 Options -Multiviews
 
