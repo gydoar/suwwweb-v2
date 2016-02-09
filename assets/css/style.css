@@ -1110,3 +1110,13 @@ ul.pricing img{
 	position: relative;
 	top: -8px;
 }
+.form__contact h4{
+	font-size: 32px;
+	font-weight: 400;
+}
+.form__contact p{
+	font-size: 18px;
+}
+.form__contact a{
+	color: #00202e;
+}

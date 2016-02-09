@@ -35,10 +35,9 @@
 		<p class="container center">Esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer.</p>
 		<hr>
 		
-		<div class="container">
-			<form action="">
-				<input type="text" name="nombre" value="Nombres y apellidos">
-			</form>
+		<div class="container center">
+			<h4>PBX: (+57 1) 3000 754 / 755</h4>
+			<p>Nuestro Email <a href="mailto:info@suwwweb.com">info@suwwweb.com</a></p>
 		</div>
 	</div>
 	
