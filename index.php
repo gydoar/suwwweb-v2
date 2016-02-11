@@ -80,7 +80,7 @@
 
               <div class="boton-principal">
                 <a class="button-green" href="plan-personal.php">MAS INFORMACIÓN</a>
-                <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 

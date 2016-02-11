@@ -53,6 +53,14 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
  
+  <!-- Mapa de Calor -->
+  <script type="text/javascript">
+    (function() {
+    var hm = document.createElement('script'); hm.type ='text/javascript'; hm.async = true;
+    hm.src = ('++u-heatmap-it+log-js').replace(/[+]/g,'/').replace(/-/g,'.');
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 </head>
 <body>
   
