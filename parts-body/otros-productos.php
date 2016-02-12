@@ -15,7 +15,7 @@
 			</div>
 			
 			<div class="four columns">
-				<a href="imagen-corporativa.php">
+				<a href="imagen-corporativa">
 					<img width="80px;" src="assets/images/otros-productos/icon-imagen-corporativa.png" alt="">
 					<h2>IMAGEN CORPORATIVA</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>

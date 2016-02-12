@@ -980,9 +980,15 @@ ul.pricing img{
 	letter-spacing: .5px;
 	margin-bottom: 0px;
 }
+.caracteristicas__empresa img{
+	position: relative;
+	right: 10px;
+}
 .caracteristicas__empresa p{
 	font-weight: 500;
 	color: #002637;
+	position: relative;
+	top: -10px;
 }
 .caracteristicas__empresa h3, .caracteristicas__empresa img{
 	vertical-align: middle;

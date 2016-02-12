@@ -1,12 +1,12 @@
 <div class="proyecto-en-mente center">
 	<h4><strong>¿TIENES UN PROYECTO EN MENTE?</strong></h4>
-	<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar.</p>
+	<p>Contáctanos y uno de nuestros asesores será el encargado de atenderte lo antes posible.</p>
 
 	<ul class="contacto__footer">
 		<li><a href="#"><img width="33px" src="assets/images/icons/icon-tel.png" alt=""> &nbsp;(57 - 1) 3000 754 / 755</a></li>
 		<li></li>
 		<li><a href="mailto:info@suwwweb.com"><img width="33px" src="assets/images/icons/icon-mail.png" alt=""> &nbsp;info@suwwweb.com</a></li>
-		<li><a class="button-blue fancybox fancybox.iframe" href="contacto.php">CONTÁCTENOS</a></li>
+		<li><a class="button-blue fancybox fancybox.iframe" href="contacto">CONTÁCTENOS</a></li>
 	</ul>
 </div>
 
@@ -32,10 +32,10 @@
 			<div class="four columns">
 				<h5>Páginas Web</h5>
 				<ul>
-					<li><a href="#">Plan Econímico</a></li>
-					<li><a href="#">Plan Empresarial</a></li>
+					<li><a href="plan-personal">Plan Personal</a></li>
+					<li><a href="plan-empresarial">Plan Empresarial</a></li>
 					<li><a href="#">A Medida</a></li>
-					<li><a href="#">E-commerce</a></li>
+					<li><a href="tienda-online">E-commerce</a></li>
 				</ul>
 			</div>
 			<div class="four columns">
@@ -48,8 +48,8 @@
 			<div class="four columns">
 				<h5>Imagen corporativa</h5>
 				<ul>
-					<li><a href="#">Diseño de logo</a></li>
-					<li><a href="#">Manual de imagen corporativa</a></li>
+					<li><a href="imagen-corporativa">Diseño de logo</a></li>
+					<li><a href="imagen-corporativa">Manual de imagen corporativa</a></li>
 				</ul>
 			</div>
 		</div>

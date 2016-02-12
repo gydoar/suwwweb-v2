@@ -29,7 +29,7 @@
         </ul>
 		
         <div class="boton-principal center">
-            <a class="button-green fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a>
+            <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>
         </div>
 
 	</div>
@@ -104,7 +104,7 @@
 
 		<div class="row">
 			<div class="four columns">
-				<a href="plan-empresarial.php">
+				<a href="plan-empresarial">
 					<img width="100px;" src="assets/images/otros-productos/icon-empresarial.png" alt="">
 					<h2>PLAN EMPRESARIAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
@@ -124,7 +124,7 @@
 			</div>
 
 			<div class="four columns">
-				<a href="tienda-online.php">
+				<a href="tienda-online">
 					<img width="100px;" src="assets/images/otros-productos/icon-tienda.png" alt="">
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>

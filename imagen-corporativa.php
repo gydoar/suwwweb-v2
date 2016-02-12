@@ -28,7 +28,7 @@
         </ul>
 		
         <div class="boton-principal center">
-            <a class="button-green fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a>
+            <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>
         </div>
 
 	</div>
@@ -64,7 +64,7 @@
         </ul>
 		
         <div class="boton-principal center">
-            <a class="button-green fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a>
+            <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>
         </div>
 
 	</div>
@@ -105,13 +105,13 @@
 
  <!-- Caracteristicas como empresa -->
  <div>
-	<?php include "parts-body/caracteristicas-empresa.php"; ?>
+	<?php include "parts-body/caracteristicas-empresa"; ?>
  </div>
  <!-- // Caracteristicas como empresa -->
 
  <div class="call-to-action-adquirir">
 	<div class="container center">
-		<p>CREAMOS MARCAS PROFESIONALES PARA EMPRESAS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a></p>
+		<p>CREAMOS MARCAS PROFESIONALES PARA EMPRESAS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call fancybox fancybox.iframe" href="contacto">ADQUIRIR</a></p>
 	</div>
 </div>
 
@@ -129,7 +129,7 @@
 
 		<div class="row">
 			<div class="four columns">
-				<a href="paginas-web.php">
+				<a href="paginas-web">
 					<img width="80px;" src="assets/images/otros-productos/icon-paginas.png" alt="">
 					<h2>PAGINAS WEB</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>

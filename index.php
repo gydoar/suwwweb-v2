@@ -10,8 +10,8 @@
         <span>Páginas web / Posicionamiento / Imagen corporativa</span>
         
         <div class="boton-principal">
-          <a class="button-blue" href="paginas-web.php">NUESTROS PLANES</a>
-          <a  class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+          <a class="button-blue" href="paginas-web">NUESTROS PLANES</a>
+          <a  class="fancybox fancybox.iframe" href="contacto"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -27,20 +27,20 @@
           <div class="four columns hacemos__cajas">
             <img width="73px" src="assets/images/icons/icon-paginas-web.png" alt="">
             <h3>PÁGINAS WEB <hr></h3>
-            <p>Páginas web para todos los dispositivos, diseños personalizados de alto impacto y a la medida de su presupuesto.</p>
-            <a class="button-blue" href="paginas-web.php">INFORMACIÓN</a>
+            <p>Construye con nosotros la página web de tu empresa, con un diseño unico utilizando los estándares del mercado actual.</p>
+            <a class="button-blue" href="paginas-web">INFORMACIÓN</a>
           </div>
          <div class="four columns hacemos__cajas">
             <img width="73px" src="assets/images/icons/icon-posicionamiento.png" alt="">
             <h3>POSICIONAMIENTO <hr></h3>
-            <p>Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa. Lorem ipsum dolor.</p>
+            <p>Te ayudamos a mejorar la visibilidad de tu empresa en internet, con el objetivo de llegar y convertir a más clientes.</p>
             <a class="button-blue" href="#">INFORMACIÓN</a>
           </div>
           <div class="four columns hacemos__cajas">
             <img width="73px" src="assets/images/icons/icon-imagen.png" alt="">
             <h3>IMAGEN CORPORATIVA <hr></h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati placeat eum aspernatur error voluptas, iure doloribus.</p>
-            <a class="button-blue" href="imagen-corporativa.php">INFORMACIÓN</a>
+            <p>Creamos imágenes que expresen la excelencia de tu empresa, obtén con nosotros diseño de logo, manual de imagen, entre otros.</p>
+            <a class="button-blue" href="imagen-corporativa">INFORMACIÓN</a>
           </div>
         </div>
     </div>   
@@ -52,7 +52,7 @@
       <h2>PÁGINAS WEB </h2>
       <div class="row">
         <div class="six columns">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis porro commodi iure quos molestias sit illo culpa, error. Voluptas ratione, doloribus ut architecto optio libero magnam placeat nobis unde quidem. Lorem ipsum dolor sit amet.Voluptas ratione, doloribus ut architecto</p>
+          <p>Nuestros desarrollos son pensados en satisfacer las necesidades de las empresas que buscan una presencia activa en internet. No utilizamos plantillas y por esto siempre entregamos un producto diferente y adecuado para cada cliente.</p>
         </div>
         <div class="six columns">
 
@@ -70,17 +70,17 @@
           <div id="tab1">
             <div class="four columns offset-by-one">
               <h3><span>PLAN</span> <strong>PERSONAL</strong></h3>
-              <p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</p>
+              <p>Ideal para las pequeñas empresas que desean seguir creciendo, mostrando su portfolio de servicios a un nuevo mercado.</p>
 
               <ul class="planes">
                 <li><p>Diseño unico</p></li>
-                <li><p>5 páginas internas</p></li>
-                <li><p>3 cuentas de correo</p></li>
+                <li><p>5 Páginas internas</p></li>
+                <li><p>3 Cuentas de correo</p></li>
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="plan-personal.php">MAS INFORMACIÓN</a>
-                <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="button-green" href="plan-personal">MAS INFORMACIÓN</a>
+                <a class="fancybox fancybox.iframe" href="contacto"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 
@@ -93,16 +93,16 @@
           <div id="tab2">
             <div class="four columns offset-by-one">
               <h3><span>PLAN</span> <strong>EMPRESARIAL</strong></h3>
-              <p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</p>
+              <p>Este es nuestro plan más vendido y con el obtienes todas las ventajas del plan personal y mucho más, ideal para empresas con alguna trayectoria importante en el mercado.</p>
 
               <ul class="planes">
                 <li><p>Diseño unico</p></li>
-                <li><p>10 páginas internas</p></li>
-                <li><p>9 cuentas de correo</p></li>
+                <li><p>10 Páginas internas</p></li>
+                <li><p>9 Cuentas de correo</p></li>
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="plan-empresarial.php">MAS INFORMACIÓN</a>
+                <a class="button-green" href="plan-empresarial">MAS INFORMACIÓN</a>
                 <a href="#"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
@@ -117,7 +117,7 @@
             <div class="four columns offset-by-one">
               <h3><span>A</span> <strong>MEDIDA</strong></h3>
               <p>Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit commodi incidunt possimus, a odit, voluptatum, laudantium beatae deleniti, perferendis reiciendis nisi cum ipsam. Sit iste, nobis modi, qui reprehenderit ipsum!</p>
+              <p>Este es nuestro plan más vendido y con el obtienes todas las ventajas del plan personal y mucho más, ideal para empresas con alguna trayectoria importante en el mercado.</p>
 
               <div class="boton-principal">
                 <a class="button-green" href="#">MAS INFORMACIÓN</a>
@@ -152,16 +152,16 @@
         <div class="padding-left">
           <ul class="tienda">
             <li><h3>CARRITO DE COMPRAS</h3>
-              <p class="eleven columns offset-by-one">Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar.</p>
+              <p class="eleven columns offset-by-one">Facilita la navegación de tus clientes y llévalos por el camino correcto hasta que realicen la compra.</p>
             </li>
             <li><h3>PAGOS EN LINEA</h3>
-              <p class="eleven columns offset-by-one">Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar.</p>
+              <p class="eleven columns offset-by-one">Recibe pagos desde cualquier parte del mundo directamente a tu tienda con unos pocos clics.</p>
             </li>
           </ul>
         </div>
          <div class="boton-principal center">
-            <a class="button-blue-2" href="tienda-online.php">MAS INFORMACIÓN</a>
-            <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-white.png" alt=""></a>
+            <a class="button-blue-2" href="tienda-online">MAS INFORMACIÓN</a>
+            <a class="fancybox fancybox.iframe" href="contacto"><img width="38px" src="assets/images/icons/icon-contact-white.png" alt=""></a>
         </div>
       </div>
     </div>
@@ -173,7 +173,7 @@
       <h2>POSICIONAMIENTO </h2>
       <div class="row">
         <div class="six columns">
-          <p>El posicionamiento web se ha convertido en una de las estrategias más utilizadas para que productos o marcas tenga una relevancia mas alta en la web. <br>Es una de las estrategias mas simples y económicas de poder dar a conocer mis servicios o productos de una manera eficaz.</p>
+          <p>Tener una página web es una de las mejores estrategias que debes de implementar para dar a conocer tus productos o servicios, pero también es importante garantizar una visibilidad en los momentos y lugares indicados. </p>
         </div>
         </div>  
         <div class="line__divi"></div><hr>    
@@ -183,7 +183,7 @@
           <div id="tab1">
             <div class="four columns offset-by-one">
               <h3><span>GOOGLE</span> <strong>ADWORDS</strong></h3>
-              <p>Es la manera mas facil de publicitar su empresa en internet, dando a conocer una respuesta efectiva a los usuarios a través de anuncios 100% relevantes a sus intereses.</p>
+              <p>Google Adwords es la herramienta insignia de Google la cual permite anunciar de manera fácil y segura los productos y servicios de tu empresa.</p>
 
               <ul class="planes">
                 <li><p>De a conocer su empresa</p></li>
@@ -193,7 +193,7 @@
 
               <div class="boton-principal">
                 <a class="button-green" href="#">MAS INFORMACIÓN</a>
-                <a class="fancybox fancybox.iframe"  href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="fancybox fancybox.iframe"  href="contacto"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 
@@ -216,10 +216,10 @@
       <h2>HOSTING</h2>
       <div class="eight columns offset-by-two line__hosting"><hr></div>
       <div class="twelve columns">
-        <p>Tiempos de carga de página líderes en la industria 99.9% de garantía de tiempo de activdad.</p>
+        <p>Ofrecemos las mejores soluciones de Hosting y servidores Cloud para la seguridad de su empresa.</p>
       </div>
       <div class="boton-principal twelve columns">
-        <a class="button-blue" href="#">CONTACTENOS</a>
+        <a class="button-blue fancybox fancybox.iframe" href="contacto">CONTACTENOS</a>
       </div>
     </div>
   </div>
@@ -233,7 +233,7 @@
       <div class="row">
         <div class="six columns">
           <p>HACEMOS QUE TE DESTAQUES DE TODOS TUS COMPETIDORES</p>
-          <p>Tenemos la experiencia y la capacidad para crear un logotipo de éxito para tu marca proporcionando un diseño atractivo y práctico para complementar tu negocio y distinguirse de la competencia.</p>
+          <p>Tenemos la experiencia y la capacidad para crear un logotipo de éxito para tu marca, proporcionando un diseño atractivo y práctico para complementar tu negocio y distinguirse de la competencia.</p>
         </div>
         </div>  
         <div class="line__divi"></div><hr>    
@@ -243,17 +243,17 @@
           <div id="tab1">
             <div class="four columns offset-by-one">
               <h3><span>CREACIÓN</span> <strong>DE MARCA</strong></h3>
-              <p>Es la manera mas facil de publicitar su empresa en internet, dando a conocer una respuesta efectiva a los usuarios a través de anuncios 100% relevantes a sus intereses.</p>
+              <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar.</p>
 
               <ul class="planes">
-                <li><p>Propuestas de logo</p></li>
+                <li><p>2 Propuestas de logo</p></li>
                 <li><p>Diseño papelería corporativa</p></li>
                 <li><p>Manual digital corporativo</p></li>
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="imagen-corporativa.php">MAS INFORMACIÓN</a>
-                <a class="fancybox fancybox.iframe" href="contacto.php"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
+                <a class="button-green" href="imagen-corporativa">MAS INFORMACIÓN</a>
+                <a class="fancybox fancybox.iframe" href="contacto"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
 

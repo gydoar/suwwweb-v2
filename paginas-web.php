@@ -32,7 +32,7 @@
 					<hr>
 					<li><img width="23px" src="assets/images/table-pricing/icon-x.png" alt=""></li>
 					<span><hr></span>
-					<li><a class="button-blue" href="plan-personal.php">ADQUIRIR</a></li>
+					<li><a class="button-blue" href="plan-personal">ADQUIRIR</a></li>
 				</ul>
  			</div>
 
@@ -56,11 +56,11 @@
 					<hr>
 					<li><p><img width="24px;" src="assets/images/table-pricing/icon-check-blue.png" alt=""> 100% Administrable</p></li>
 					<hr>
-					<li><p><img width="24px;" src="assets/images/table-pricing/icon-check-blue.png" alt=""> Asesoria personalizada</p></li>
+					<li><p><img width="24px;" src="assets/images/table-pricing/icon-check-blue.png" alt=""> Asesoría personalizada</p></li>
 					<hr>
-					<li><p>$150.000 en Google Adwords</p></li>
+					<li><p>$170.000* en Google Adwords</p></li>
 					<span><hr></span>
-					<li><a class="button-green" href="plan-empresarial.php">ADQUIRIR</a></li>
+					<li><a class="button-green" href="plan-empresarial">ADQUIRIR</a></li>
 				</ul>
  			</div>
  		</div>
@@ -76,10 +76,10 @@
 				
 				<div class="text__amedida">
 					<p>Para aquellas personas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
-					<a class="fancybox fancybox.iframe button-blue" href="contacto.php">COTIZAR</a>
+					<a class="fancybox fancybox.iframe button-blue" href="contacto">COTIZAR</a>
 					<div class="line__pricing__table__amedida"><hr></div>
 					<a href="mailto:info@suwwweb.com">info@suwwweb.com</a>
-					<p><a href="#">(57 - 1) 3000 754 / 755</a></p>
+					<p><a href="tel:031 3000754">(57 - 1) 3000 754 / 755</a></p>
 				</div>
 				
  			</div>
@@ -91,24 +91,24 @@
  <div class="todos__los__planes center">
  	<div class="container">
 		<h3><strong>TODOS NUESTROS PLANES INCLUYEN</strong></h3>
-		<h4>Esta siempre tranquilo por que todos nuestros planes web incluyen las mejores características.</h4>
+		<h4>Está siempre tranquilo por qué todos nuestros planes vienen equipados con todo lo necesario para tu empresa.</h4>
 		<div class="eight columns offset-by-two line__todos__nuestros__planes"><hr></div>
 		<!-- Fila 1 -->
 	 	<div class="row items__todos__planes">
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-responsive.png" alt="">
 	 			<h5>DISEÑO UNICO Y RESPONSIVE</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>No utilizamos plantillas, por eso todos nuestros diseños son diferentes y utilizamos las tendencias móviles del mercado.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-dominio.png" alt="">
 	 			<h5>DOMINIO (.COM .NET)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Tu empresa necesita un nombre que lo represente en internet, por eso te entregamos de forma gratuita un dominio.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-hosting.png" alt="">
 	 			<h5>ALOJAMIENTO (HOSTING)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Su página web estará alojada en centros de datos seguros y que garantizan mostrar su sitio web en tiempos muy cortos.</p>
 	 		</div>
 	 	</div>
 
@@ -117,17 +117,17 @@
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-correos.png" alt="">
 	 			<h5>CORREOS CORPORATIVOS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Gestiona y contacta a tus clientes de una forma más profesional y obtén cuentas de correo corporativas e integradas a tu dominio.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-sociales.png" alt="">
 	 			<h5>INTEGRACIÓN REDES SOCIALES</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Mantener enlazada tu página web con las diferentes redes sociales Facebook, Twitter entre otras ayudara a mejorar la visibilidad de tu sitio.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-seo.png" alt="">
 	 			<h5>POSICIONAMIENTO SEO</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Nos esforzamos día a día en optimizar el código de las páginas web logrando que se posicionen de una manera natural en Google.com</p>
 	 		</div>
 	 	</div>
 

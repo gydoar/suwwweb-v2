@@ -29,7 +29,7 @@
         </ul>
 		
         <div class="boton-principal center">
-            <a class="button-green fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a>
+            <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>
         </div>
 
 	</div>
@@ -77,19 +77,19 @@
 
  <!-- Caracteristicas como empresa -->
  <div>
-	<?php include "parts-body/caracteristicas-empresa.php"; ?>
+	<?php include "parts-body/caracteristicas-empresa"; ?>
  </div>
  <!-- // Caracteristicas como empresa -->
 
  <div class="call-to-action-adquirir">
 	<div class="container center">
-		<p><span>PLAN EMPRESARIAL</span> IDEAL PARA PEQUEÑAS EMPRESAS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call fancybox fancybox.iframe" href="contacto.php">ADQUIRIR</a></p>
+		<p><span>PLAN EMPRESARIAL</span> IDEAL PARA PEQUEÑAS EMPRESAS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="button-green-call fancybox fancybox.iframe" href="contacto">ADQUIRIR</a></p>
 	</div>
 </div>
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes.php"; ?>
+   <?php include "parts-body/preguntas-frecuentes"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  
@@ -121,7 +121,7 @@
 			</div>
 
 			<div class="four columns">
-				<a href="tienda-online.php">
+				<a href="tienda-online">
 					<img width="100px;" src="assets/images/otros-productos/icon-tienda.png" alt="">
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>

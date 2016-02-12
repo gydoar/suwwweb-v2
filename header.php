@@ -4,12 +4,12 @@
   
   <?php 
     $titulos = [
-    'index.php' => 'suWWWeb: Páginas web para empresas',
-    'paginas-web.php' => 'suWWWeb: Páginas web',
-    'plan-personal.php' => 'suWWWeb: Páginas web > Plan personal',
-    'plan-empresarial.php' => 'suWWWeb: Páginas web > Plan empresarial',
-    'tienda-online.php' => 'suWWWeb: Páginas web > Tienda online',
-    'imagen-corporativa.php' => 'suWWWeb: Imagen corporativa',
+    'index' => 'suWWWeb: Páginas web para empresas',
+    'paginas-web' => 'suWWWeb: Páginas web',
+    'plan-personal' => 'suWWWeb: Páginas web > Plan personal',
+    'plan-empresarial' => 'suWWWeb: Páginas web > Plan empresarial',
+    'tienda-online' => 'suWWWeb: Páginas web > Tienda online',
+    'imagen-corporativa' => 'suWWWeb: Imagen corporativa',
 
     ];
 
@@ -19,12 +19,12 @@
 
    <?php 
     $descripcion = [
-    'index.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
-    'paginas-web.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
-    'plan-personal.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
-    'plan-empresarial.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
-    'tienda-online.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
-    'imagen-corporativa.php' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'index' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'paginas-web' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'plan-personal' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'plan-empresarial' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'tienda-online' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
+    'imagen-corporativa' => 'Páginas web en Bogotá, con los planes más económicos y accesibles del mercado, con más de 10 años de experiencia',
 
     ];
 
@@ -89,11 +89,12 @@
       
       <nav class="nine columns menu__header"> 
         <ul>
-          <li><a href="paginas-web.php">PÁGINAS WEB</a></li>
+          <li><a href="/">INICIO</a></li>
+          <li><a href="paginas-web">PÁGINAS WEB</a></li>
           <li><a href="">POSICIONAMIENTO</a></li>
-          <li><a href="imagen-corporativa.php">IMAGEN CORPORATIVA</a></li>
-          <li><a href="">BLOG</a></li>
-          <li><a class="fancybox fancybox.iframe" href="contacto.php"><img width="32px" src="assets/images/icons/icon-contact-white.png" alt=""></a></li>
+          <li><a href="imagen-corporativa">IMAGEN CORPORATIVA</a></li>
+          <li><a class="fancybox fancybox.iframe" href="contacto">CONTACTENOS</a></li>
+          <li><a class="fancybox fancybox.iframe" href="contacto"><img width="32px" src="assets/images/icons/icon-contact-white.png" alt=""></a></li>
         </ul>
       </nav>
 
