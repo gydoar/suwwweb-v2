@@ -77,14 +77,14 @@
 
 	<script src="assets/js/responsive-nav.js"></script>
 	<script src="assets/js/fastclick.js"></script>
-	<script src="assets/js/fixed-responsive-nav.js"></script>
+	
 
 	<script src="assets/js/jquery.fancybox.pack.js"></script>
 	<script src="assets/js/jquery.mousewheel-3.0.6.pack.js"></script>
 	<script src="assets/js/jquery.fancybox.js"></script>
 	<script src="assets/js/jquery.fancybox-buttons.js"></script>
 
-	
+	<script src="assets/js/jquery.meanmenu.js"></script>
 
 	<script src="assets/js/script.js"></script>
 </body>

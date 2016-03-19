@@ -3,11 +3,20 @@ body{
 	background-image: url(../images/bg-points.png);
 
 }
+.scrolled {
+  background: rgba(0,32,46,.9);
+}
 header{
 	background: rgba(0,32,46,0.75);
 	padding-top: 20px;
 	position: relative;
 	z-index: 1;
+
+	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+	left: 0; /* Posicionamos la cabecera al lado izquierdo */
+	top: 0; /* Posicionamos la cabecera pegada arriba */
+	position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+	z-index: 500;
 }
 .logo{
 	
@@ -380,10 +389,15 @@ ul.planes li p{
 }
 .right{
 	text-align: right;
-	float: right;
 }
 .margin-top{
 	margin-top: 10px;
+}
+.margin-top-google{
+	margin-top: 60px;
+}
+.padding-top-text-google{
+	padding-top: 60px;
 }
 /* Tienda onlie */
 .tienda__online{
@@ -914,7 +928,6 @@ ul.pricing img{
 }
 /*** Todos los planes incluyen **/
 .todos__los__planes{
-	background-color: #f3f4f5;
 	background-image: url(../images/bg-points.png);
 	padding: 40px 0px;
 }
@@ -970,7 +983,6 @@ ul.pricing img{
 }
 /* Modulo Caracteristicas Empresa */
 .caracteristicas__empresa{
-	background-color: #f3f4f5;
 	background-image: url(../images/bg-points.png);
 	padding: 40px 0px;
 }
@@ -1058,7 +1070,17 @@ ul.pricing img{
 	color: #00b8ff;
 	font-size: 26px;
 }
-
+.bloque-dos-imagen{
+	padding: 20px 0px;
+}
+.bloque-dos-imagen h3{
+	font-size: 2.6rem;
+	letter-spacing: 1px;
+	
+}
+.bloque-dos-imagen h3 strong{
+	font-weight: 500;
+}
 /** Preguntas Frecuentes **/
 .preguntas__frecuentes{
 	padding: 40px 0px;
@@ -1126,3 +1148,44 @@ ul.pricing img{
 .form__contact a{
 	color: #00202e;
 }
+/*** Google Adwords ****/
+.google-adwords{
+	padding: 40px 20px;
+}
+.google-adwords h3{
+	font-weight: 400;
+	letter-spacing: .5px;
+	font-size: 24px;
+}
+.point-vertical{
+	margin: 0 auto;
+	border-radius: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #e7e7e7;
+	height: 4px;
+	width: 4px;
+}
+.point-vertical-blue img{
+	text-align: center;
+	margin: 5px 0px;
+}
+.caja-select:hover{
+	border:1px solid #f4f5f6;
+	background: #ffffff;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+.caja-select h5{
+	margin-bottom: 0px;
+}
+.line-title-redes-google hr{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top: 3px solid #00b8ff;
+	width: 60px;
+}
+
+
+
+

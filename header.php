@@ -16,6 +16,16 @@
     $uri = end(explode("/", $_SERVER['PHP_SELF']));
    ?>
 
+   <?php 
+    $paginas = [
+    'index' => '#paginas-web',
+    'paginas-web' => 'paginas-web',
+
+    ];
+
+    $uri = end(explode("/", $_SERVER['PHP_SELF']));
+   ?>
+
 
    <?php 
     $descripcion = [
@@ -52,6 +62,7 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
+
  
   <!-- Mapa de Calor -->
   <script type="text/javascript">
@@ -63,25 +74,9 @@
   </script>
 </head>
 <body>
-  
-  <!--
-  <header>
-    <div class="container">
-      <a href="#home" class="logo" data-scroll><img width="268px" src="assets/images/logo.png" alt=""></a>
-      <nav class="nav-collapse menu__header">
-        <ul>
-          <li class="menu-item active"><a href="#home" data-scroll>PÁGINAS WEB</a></li>
-          <li class="menu-item"><a href="#about" data-scroll>POSICIONAMIENTO</a></li>
-          <li class="menu-item"><a href="#projects" data-scroll>IMAGEN CORPORATIVA</a></li>
-          <li class="menu-item"><a href="#blog" data-scroll>BLOG</a></li>
-          <li class="menu-item"><a href="#blog" data-scroll><img width="32px" src="assets/images/icons/icon-contact-white.png" alt=""></a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
--->
 
   <header>
+
     <div class="container">
       <div class="three columns logo">
         <a  href="/"><img class="twelve columns" src="assets/images/logo.png" alt=""></a>
@@ -90,9 +85,9 @@
       <nav class="nine columns menu__header"> 
         <ul>
           <li><a href="/">INICIO</a></li>
-          <li><a href="paginas-web">PÁGINAS WEB</a></li>
-          <li><a href="">POSICIONAMIENTO</a></li>
-          <li><a href="imagen-corporativa">IMAGEN CORPORATIVA</a></li>
+          <li><a href="<?php echo $paginas[$uri]; ?>">PÁGINAS WEB</a></li>
+          <li><a href="#posicionamiento">POSICIONAMIENTO</a></li>
+          <li><a href="#imagen-corporativa">IMAGEN CORPORATIVA</a></li>
           <li><a class="fancybox fancybox.iframe" href="contacto">CONTACTENOS</a></li>
           <li><a class="fancybox fancybox.iframe" href="contacto"><img width="32px" src="assets/images/icons/icon-contact-white.png" alt=""></a></li>
         </ul>
@@ -100,4 +95,4 @@
 
     </div>
   </header>
-
+  

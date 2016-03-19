@@ -47,7 +47,7 @@
   </div>
 
   <!-- Páginas web -->
-  <div class="home__paginas__web">
+  <div class="home__paginas__web" id="paginas-web">
     <div class="container">
       <h2>PÁGINAS WEB </h2>
       <div class="row">
@@ -168,7 +168,7 @@
   </div>
   <!-- // TIENDA ONLINE -->
   <!-- // POSICIONAMIENTO -->
-  <div class="home__paginas__web">
+  <div class="home__paginas__web" id="posicionamiento">
     <div class="container">
       <h2>POSICIONAMIENTO </h2>
       <div class="row">
@@ -227,7 +227,7 @@
  <!-- //HOSTING -->
 
  <!-- IMAGEN CORPORATIVA -->
-   <div class="home__paginas__web">
+   <div class="home__paginas__web" id="imagen-corporativa">
     <div class="container">
       <h2>IMAGEN CORPORATIVA </h2>
       <div class="row">

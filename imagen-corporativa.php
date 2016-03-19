@@ -39,12 +39,13 @@
 <hr>
 
 <!-- bloque 2 -->
-<div class="container descrip__plan__general">
+<div class="container bloque-dos-imagen">
 	<div class="center">
 		<h3><strong>MANUAL DE IMAGEN CORPORATIVO</strong></h3>
+
 		<h4>Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor.</h4>
 	</div>
-	<div class="eight columns offset-by-two line__todos__nuestros__planes"><hr></div>
+	<div class="eight columns offset-by-two line__nuestros__proyectos"><hr></div>
 
 	<div class="six columns offset-by-one center">
 		<img width="400px" src="assets/images/empresarial.png" alt="">
@@ -105,7 +106,7 @@
 
  <!-- Caracteristicas como empresa -->
  <div>
-	<?php include "parts-body/caracteristicas-empresa"; ?>
+	<?php include "parts-body/caracteristicas-empresa.php"; ?>
  </div>
  <!-- // Caracteristicas como empresa -->
 

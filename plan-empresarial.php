@@ -2,8 +2,8 @@
 
 <div class="header-2">
 	<div class="container center">
-		<h3>IDEAL PARA PEQUEÑAS EMPRESAS</h3>
-		<h4>Esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</h4>
+		<h3>EL PLAN PARA LAS EMPRESAS</h3>
+		<h4>Creado para empresas destacadas en el mercado y que desean abrirse al mundo web.</h4>
 	</div>
 </div>
 
@@ -50,17 +50,17 @@
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-responsive.png" alt="">
 	 			<h5>DISEÑO UNICO Y RESPONSIVE</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>No utilizamos plantillas, por eso todos nuestros diseños son diferentes y utilizamos las tendencias móviles del mercado.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-dominio.png" alt="">
 	 			<h5>DOMINIO (.COM .NET)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Tu empresa necesita un nombre que lo represente en internet, por eso te entregamos de forma gratuita un dominio.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-hosting.png" alt="">
 	 			<h5>ALOJAMIENTO (HOSTING)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Su página web estará alojada en centros de datos seguros y que garantizan mostrar su sitio web en tiempos muy cortos.</p>
 	 		</div>
 	 	</div>
 
@@ -77,7 +77,7 @@
 
  <!-- Caracteristicas como empresa -->
  <div>
-	<?php include "parts-body/caracteristicas-empresa"; ?>
+	<?php include "parts-body/caracteristicas-empresa.php"; ?>
  </div>
  <!-- // Caracteristicas como empresa -->
 
@@ -89,7 +89,7 @@
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes"; ?>
+   <?php include "parts-body/preguntas-frecuentes.php"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  

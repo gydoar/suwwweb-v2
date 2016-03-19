@@ -259,6 +259,40 @@ $(document).ready(function() {
 
 
     });
+
+// Menu Responsive
+  jQuery(document).ready(function () {
+      jQuery('header nav').meanmenu();
+  });
+
+// Efecto Scroll
+
+  $(document).on("ready", main);
+  function main(){
+    $("header a").on("click", irA);
+  }
+  function irA(){
+    var seccion = $(this).attr("href");
+    $("body, html").animate({
+      scrollTop: $(seccion).offset().top
+    },1800);
+    return false;
+  }
+
+
+$(window).scroll(function(){
+
+  var scroll = $(window).scrollTop();
+
+  if (scroll > 0 ) {
+    $('header').addClass('scrolled');
+  }
+
+  if (scroll <= 0 ) {
+    $('header').removeClass('scrolled');
+ }
+
+});
 // Chat Zopim
 
       window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
