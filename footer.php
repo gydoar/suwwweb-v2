@@ -41,8 +41,8 @@
 			<div class="four columns">
 				<h5>Posicionamiento</h5>
 				<ul>
-					<li><a href="#">Posicionamiento SEO</a></li>
-					<li><a href="#">Anuncios adwords</a></li>
+					<li><a href="posicionamiento-google-adwords">Posicionamiento SEO</a></li>
+					<li><a href="posicionamiento-google-adwords">Anuncios adwords</a></li>
 				</ul>
 			</div>
 			<div class="four columns">

@@ -21,7 +21,7 @@
   <!-- Lo que hacemos -->
   <div class="hacemos">
     <div class="container">
-      <h2><span>REALIZA</span> CON NOSOTROS</h2>
+      <h2><span>NUESTROS</span> SERVICIOS</h2>
         
         <div class="row cajas">
           <div class="four columns hacemos__cajas">
@@ -192,7 +192,7 @@
               </ul>
 
               <div class="boton-principal">
-                <a class="button-green" href="#">MAS INFORMACIÓN</a>
+                <a class="button-green" href="posicionamiento-google-adwords">MAS INFORMACIÓN</a>
                 <a class="fancybox fancybox.iframe"  href="contacto"><img width="38px" src="assets/images/icons/icon-contact-blue.png" alt=""></a>
               </div>
             </div>
