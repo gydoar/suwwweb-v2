@@ -21,8 +21,8 @@
   <!-- Lo que hacemos -->
   <div class="hacemos">
     <div class="container">
-      <h2><span>NUESTROS</span> SERVICIOS</h2>
-        
+      <h2>NUESTROS SERVICIOS</h2>
+        <div class="line-nuestros-servicios"><hr></div>
         <div class="row cajas">
           <div class="four columns hacemos__cajas">
             <img width="73px" src="assets/images/icons/icon-paginas-web.png" alt="">
@@ -45,7 +45,7 @@
         </div>
     </div>   
   </div>
-
+  <div class="line__divisor"></div>
   <!-- Páginas web -->
   <div class="home__paginas__web" id="paginas-web">
     <div class="container">
@@ -85,7 +85,7 @@
             </div>
 
             <div class="seven columns center">
-              <img width="400px" src="assets/images/empresarial.png" alt="">
+              <img width="500px" src="assets/images/personal.png" alt="">
             </div>
           </div>
           

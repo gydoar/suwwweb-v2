@@ -185,29 +185,31 @@ a.button-azul-oscuro{
 .hacemos{
 	padding: 40px 0px;
 	background-color: #f7f8f8;
-	background-image: url(../images/bg-city.png);
 	background-repeat: no-repeat;
-	min-height: 362px;
-	background-attachment: relative;
-	position: center center;
-	width: 100%;
-	background-size: 100%;
-		-webkit-background-size: 100%;
-		-o-background-size: 100%;
-		-moz-background-size: 100%;
-	background-size: cover;
-	box-shadow: 0px 5px 6px #e3e4e8;
+	min-height: 330px;
 }
 .hacemos h2{
-	border-bottom: 2px solid #dbd9da;
+	font-family: 'AvenirLTStd-Roman';
+	text-align: center;
+	margin-bottom: 0px;
 }
-.hacemos h2 span{
+.line-nuestros-servicios{
+	border-bottom: 2px solid #dbd9da;
+	margin: 0px;
+}
+.line-nuestros-servicios hr{
 	border-bottom: 3px solid #1f404f;
+	margin: 0 auto;
+	text-align: center;
+	max-width: 10%;
+	top: 3px;
+	position: relative;
 }
 .cajas{
 	padding: 60px 0px 0px 0px;
 }
 .cajas h3{
+
 	margin-bottom: 0px;
 	text-align: left;
 }
@@ -215,14 +217,19 @@ a.button-azul-oscuro{
 	text-align: center;
 }
 .hacemos__cajas h3{
-	font-weight: 200;
+
+	font-weight: 400;
+	letter-spacing: 1px;
+	font-size: 22px;
 }
 .hacemos__cajas hr{
 	margin-top: 0px;
 	margin-bottom: 0px;
 	border-bottom: 3px solid #00b8ff;
-	width: 40px;
+	width: 60px;
 	text-align: left !important;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 .hacemos__cajas p{
 	margin-top: 20px;
@@ -240,7 +247,9 @@ a.button-azul-oscuro{
 .home__paginas__web{
 	padding: 60px 0px;
 }
-
+.home__paginas__web h2{
+	font-family: 'AvenirLTStd-Roman';
+}
 /* Scroll down */
 @-moz-keyframes bounce {
 		  0%, 20%, 50%, 80%, 100% {
