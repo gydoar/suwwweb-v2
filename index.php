@@ -130,7 +130,23 @@
             </div>
           </div>
         </div>
+        <div class="ten columns offset-by-one">
+          <div class="line__divi_tecnologias"></div>
+        </div>
+    </div>
+
+    <div class="container">
       
+      <ul class="tecnologias">
+        <li><img width="19px" src="assets/images/tecnologias/abrir.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/html.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/css.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/js.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/php.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/python.png" alt=""></li>
+        <li><img width="43px" src="assets/images/tecnologias/wp.png" alt=""></li>
+       <li><img width="30px" src="assets/images/tecnologias/cerrar.png" alt=""></li>
+      </ul>
     </div>
   </div>
   <!-- //Páginas web -->
@@ -198,7 +214,7 @@
             </div>
 
             <div class="seven columns center">
-              <img width="400px" src="assets/images/empresarial.png" alt="">
+              <img width="400px" src="assets/images/google-ads.png" alt="">
             </div>
           </div>
           

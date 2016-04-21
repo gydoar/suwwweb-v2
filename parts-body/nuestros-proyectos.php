@@ -1,6 +1,6 @@
 <div class="nuestros-proyectos center">
 	<div>
-		<h3><strong>NUESTROS PROYECTOS</strong></h3>
+		<h3><strong>PROYECTOS REALIZADOS</strong></h3>
 		<h4>NO HACEMOS PROYECTOS URGENTES, LOS REALIZAMOS EN LOS TIEMPOS ACORDES PARA QUE SEA EXITOSO</h4>
 		<div class="eight columns offset-by-two line__nuestros__proyectos"><hr></div>
 	</div>

@@ -28,8 +28,8 @@
 		
 		<img width="281px" src="assets/images/logo-footer.png" alt="">
 
-		<div class="eight columns offset-by-two menu__footer">
-			<div class="four columns">
+		<div class="ten columns offset-by-one menu__footer">
+			<div class="three columns">
 				<h5>Páginas Web</h5>
 				<ul>
 					<li><a href="plan-personal">Plan Personal</a></li>
@@ -38,18 +38,27 @@
 					<li><a href="tienda-online">E-commerce</a></li>
 				</ul>
 			</div>
-			<div class="four columns">
+			<div class="three columns">
 				<h5>Posicionamiento</h5>
 				<ul>
-					<li><a href="posicionamiento-google-adwords">Posicionamiento SEO</a></li>
-					<li><a href="posicionamiento-google-adwords">Anuncios adwords</a></li>
+					<li><a href="posicionamiento-google-adwords">Google - Red de búsqueda</a></li>
+					<li><a href="posicionamiento-google-adwords">Google - Red display</a></li>
+					<li><a href="posicionamiento-google-adwords">Google - Video Youtube</a></li>
 				</ul>
 			</div>
-			<div class="four columns">
+			<div class="three columns">
 				<h5>Imagen corporativa</h5>
 				<ul>
 					<li><a href="imagen-corporativa">Diseño de logo</a></li>
 					<li><a href="imagen-corporativa">Manual de imagen corporativa</a></li>
+				</ul>
+			</div>
+			<div class="three columns">
+				<br>
+				<ul><br>
+					<li><a href="imagen-corporativa">Preguntas frecuentes</a></li>
+					<li><a href="imagen-corporativa">Proyectos realizados</a></li>
+					<li><a href="imagen-corporativa">Contáctenos</a></li>
 				</ul>
 			</div>
 		</div>

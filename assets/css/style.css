@@ -378,6 +378,22 @@ ul.planes li p{
 ul.planes li p{
 	top: -5px;
 }
+ul.tecnologias{
+	text-align: center;
+	margin: 0px;
+}
+ul.tecnologias li{
+	margin: 0px 15px;
+	display: inline;
+	vertical-align: middle;
+}
+ul.tecnologias li img{
+	vertical-align: middle;
+}
+.line__divi_tecnologias{
+	margin: 20px 0px;
+	border-top: 2px solid #d0d0d5;
+}
 
 /* simplificados */
 
@@ -444,6 +460,9 @@ ul.planes li p{
 	color: #ffffff;
 	padding-top: 80px;
 }
+.text__tienda h2{
+	font-family: 'AvenirLTStd-Roman';
+}
 ul.tienda{
 	padding-top: 40px;
 }
@@ -483,6 +502,7 @@ ul.tienda li:nth-child(2){
 }
 .hosting h2{
 	margin-bottom:10px; 
+	font-family: 'AvenirLTStd-Roman';
 }
 .line__hosting{
 	border-top: 2px solid rgba(255,255,255,0.20);
@@ -617,7 +637,7 @@ ul.tienda li:nth-child(2){
 }
 .nuestros-proyectos{
 	padding: 60px 20px;
-	background: #E2F0F1;
+
 }
 .nuestros-proyectos h3{
 	letter-spacing: .5px;
@@ -633,9 +653,9 @@ ul.tienda li:nth-child(2){
 /* Tienes un proyecto en mente */
 .proyecto-en-mente{
 	padding: 60px 0px;
-	background-image: url(../images/bg-footer.jpg);
+	background-image: url(../images/bg-city.png);
 	background-repeat: no-repeat;
-	min-height: 375px;
+	min-height: 362px;
 	background-attachment: relative;
 	position: center center;
 	width: 100%;
@@ -643,7 +663,6 @@ ul.tienda li:nth-child(2){
 		-webkit-background-size: 100%;
 		-o-background-size: 100%;
 		-moz-background-size: 100%;
-	background-size: cover;
 }
 .proyecto-en-mente strong{
 	font-weight: 500;
@@ -742,7 +761,7 @@ footer ul{
 	margin-top: -70px;
 	background-image: url(../images/bg-header-2.png);
 	background-repeat: no-repeat;
-	min-height: 287px;
+	min-height: 292px;
 	background-attachment: relative;
 	position: center center;
 	width: 100%;
