@@ -2,7 +2,7 @@
 
 <div class="header-3">
 	<div class="container center">
-		<h3>RED DE BUSQUEDA</h3>
+		<h3>RED DISPLAY</h3>
 		<h4>Esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</h4>
 	</div>
 </div>
@@ -14,7 +14,7 @@
 
 <div class="container descrip__plan__general">
 	<div class="six columns offset-by-one center">
-		<img width="400px" src="assets/images/icons/google-adwords/red-busqueda.png" alt="">
+		<img width="400px" src="assets/images/icons/google-adwords/red-display.png" alt="">
 	</div>
 	<div class="four columns offset-by-one">
 		<ul class="planes">
@@ -23,7 +23,7 @@
             <li><p>Análisis de competencia</p></li>
         </ul>
 
-        <h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 250.000</span></h3>
+        <h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 400.000</span></h3>
 		
         <div class="boton-principal center">
             <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>
@@ -36,51 +36,32 @@
 <!-- Cacacteristicas todos los planes -->
  <div class="todos__los__planes center">
  	<div class="container">
-		<h3><strong>CARACTERISTICAS RED DE BUSQUEDA</strong></h3>
+		<h3><strong>CARACTERISTICAS RED DISPLAY</strong></h3>
 		<h4>Seguridad, escalabilidad, disponibilidad, fiabilidad y rendimiento.</h4>
 		<div class="eight columns offset-by-two line__todos__nuestros__planes"><hr></div>
 		<!-- Fila 1 -->
 	 	<div class="row items__todos__planes">
 	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/creacion-anuncios.png" alt="">
-	 			<h5>CREACIÓN DE ANUNCIOS</h5>
+	 			<img width="70px;" src="assets/images/icons/google-adwords/temas-busqueda.png" alt="">
+	 			<h5>TEMAS DE BUSQUEDA</h5>
 	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 	 		</div>
 	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/configuracion-anuncios.png" alt="">
-	 			<h5>CONFIGURACIÓN DE ANUNCIOS</h5>
+	 			<img width="70px;" src="assets/images/icons/google-adwords/interes-audiencia.png" alt="">
+	 			<h5>INTERESES DE AUDIENCIA</h5>
 	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 	 		</div>
 	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/enlace-sitio.png" alt="">
-	 			<h5>ENLACE CON TU SITIO WEB</h5>
+	 			<img width="70px;" src="assets/images/icons/google-adwords/datos-demograficos.png" alt="">
+	 			<h5>DATOS DEMOGRÁFICOS</h5>
 	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
 	 		</div>
 	 	</div>
-
-	 	<div class="row items__todos__planes">
-	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/google-analytics.png" alt="">
-	 			<h5>GOOGLE ANALYTICS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-	 		</div>
-	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/analisis-palabras.png" alt="">
-	 			<h5>ANÁLISIS DE PALABRAS CLAVES</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-	 		</div>
-	 		<div class="four columns">
-	 			<img width="70px;" src="assets/images/icons/google-adwords/orientacion-geografica.png" alt="">
-	 			<h5>ORIENTACIÓN GEOGRÁFICA</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
-	 		</div>
-	 	</div>
-
 	 	<!-- Fila 3 -->
 	 	<div class="">
 	 		<ul class="items_small">
-	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;OPTIMIZACIÓN DE PRESUPUESTO</p></li>
-	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;INCLUSIÓN DE NUEVOS ANUNCIOS</p></li>
+	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;UBICACIONES</p></li>
+	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;INTERESES DEL MERCADO</p></li>
 	 		</ul>
 	 	</div>
 	 </div>
