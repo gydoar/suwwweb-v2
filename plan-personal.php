@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 
-<div class="header-2">
+<div class="header-3">
 	<div class="container center">
 		<h3>IDEAL PARA PEQUEÑAS EMPRESAS</h3>
 		<h4>Esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</h4>
@@ -34,7 +34,7 @@
 
 	</div>
 	<div class="six columns offset-by-one center">
-		<img width="400px" src="assets/images/empresarial.png" alt="">
+		<img width="500px" src="assets/images/personal.png" alt="">
 	</div>
 </div>
 <div class="line__divisor"></div>

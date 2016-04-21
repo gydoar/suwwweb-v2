@@ -378,7 +378,7 @@ ul.planes li p{
 ul.planes li p{
 	top: -5px;
 }
-ul.tecnologias{
+ul.tecnologias, ul.medios-pagos{
 	text-align: center;
 	margin: 0px;
 }
@@ -394,7 +394,14 @@ ul.tecnologias li img{
 	margin: 20px 0px;
 	border-top: 2px solid #d0d0d5;
 }
-
+ul.medios-pagos{
+	margin:20px 0px;
+}
+ul.medios-pagos li, ul.medios-pagos li p{
+	margin: 0px 10px;
+	display: inline;
+	vertical-align: text-top;
+}
 /* simplificados */
 
 .center{
@@ -772,15 +779,18 @@ footer ul{
 	background-size: cover;
 	border-bottom: 3px solid #e7e7e7;
 }
-.header-2 h3, .header-2 h2{
+.header-3{
+	border-bottom: 3px solid #e7e7e7;
+}
+.header-2 h3, .header-2 h2, .header-3 h3, .header-3 h2{
 	letter-spacing: .5px;
 }
-.header-2 h3{
+.header-2 h3, .header-3 h3{
 	padding-top: 150px;
 	font-size: 35px;
 	margin-bottom: 10px;
 }
-.header h2{
+.header h2, .header-3 h2{
 	font-size: 18px;
 }
 /***** Tabla de Precios *****/
