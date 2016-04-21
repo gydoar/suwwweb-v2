@@ -33,7 +33,7 @@
 
 	</div>
 	<div class="six columns offset-by-one center">
-		<img width="400px" src="assets/images/empresarial.png" alt="">
+		<img width="350px" src="assets/images/icons/imagen-corporativa/diseno-logo.png" alt="">
 	</div>
 </div>
 <hr>
@@ -48,7 +48,7 @@
 	<div class="eight columns offset-by-two line__nuestros__proyectos"><hr></div>
 
 	<div class="six columns offset-by-one center">
-		<img width="400px" src="assets/images/empresarial.png" alt="">
+		<img width="400px" src="assets/images/icons/imagen-corporativa/manual.png" alt="">
 	</div>
 	<div class="four columns offset-by-one">
 
