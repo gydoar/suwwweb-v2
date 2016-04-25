@@ -60,6 +60,7 @@
             <li><a href="#tab1">PERSONAL</a></li>
             <li><a href="#tab2">EMPRESARIAL</a></li>
             <li><a href="#tab3">A MEDIDA</a></li>
+            <li><a href="paginas-web">TODOS</a></li>
           </ul>
         </div>
         </div>  
@@ -126,7 +127,7 @@
             </div>
 
             <div class="seven columns center">
-              <img width="400px" src="assets/images/empresarial.png" alt="">
+              <img width="400px" src="assets/images/a-medida.png" alt="">
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 
-<div class="header-2">
+<div class="header-3">
 	<div class="container center">
 		<h3>CREAMOS MARCAS PROFESIONALES PARA EMPRESAS</h3>
 		<h4>La marca representa tu empresa, tu producto y lo que haces, hacemos que tu imagen exprese excelencia.</h4>

@@ -48,7 +48,7 @@
 				<div class="point-vertical"></div>
 			</div>
 			<div class="five columns margin-top-google">
-				<img src="assets/images/icons/google-adwords/1.png" alt="">
+				<img width="221px" src="assets/images/icons/google-adwords/1.png" alt="">
 			</div>
 		</div>
 
@@ -56,7 +56,7 @@
 
 		<div class="row">
 			<div class="five columns margin-top-google left">
-				<img src="assets/images/icons/google-adwords/2.png" alt="">
+				<img width="275px" src="assets/images/icons/google-adwords/2.png" alt="">
 			</div>
 			
 			<div class="two columns">
@@ -127,7 +127,7 @@
 				<div class="point-vertical"></div>
 			</div>
 			<div class="five columns margin-top-google">
-				<img src="assets/images/icons/google-adwords/3.png" alt="">
+				<img width="328px" src="assets/images/icons/google-adwords/3.png" alt="">
 			</div>
 		</div>
 
@@ -135,7 +135,7 @@
 
 		<div class="row">
 			<div class="five columns margin-top-google left">
-				<img src="assets/images/icons/google-adwords/4.png" alt="">
+				<img width="237px" src="assets/images/icons/google-adwords/4.png" alt="">
 			</div>
 			
 			<div class="two columns">
