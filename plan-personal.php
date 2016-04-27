@@ -24,7 +24,7 @@
 		
 		<ul class="planes">
             <li><p>Diseño unico</p></li>
-            <li><p>5 páginas internas</p></li>
+            <li><p>6 páginas internas</p></li>
             <li><p>3 cuentas de correo</p></li>
         </ul>
 		

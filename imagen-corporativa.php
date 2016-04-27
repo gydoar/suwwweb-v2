@@ -23,7 +23,7 @@
 		</div>
 		
 		<ul class="planes">
-            <li><p>2 propuestas de logo</p></li>
+            <li><p>Propuestas de logo</p></li>
             <li><p>Diseño papeleria básica</p></li>
         </ul>
 		
@@ -59,7 +59,7 @@
 		</div>
 		
 		<ul class="planes">
-            <li><p>2 propuestas de logo</p></li>
+            <li><p>Propuestas de logo</p></li>
             <li><p>Manual digital corporativo</p></li>
             <li><p>Diseño papeleria corporativa</p></li>
         </ul>

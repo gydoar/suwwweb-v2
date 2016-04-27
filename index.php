@@ -75,7 +75,7 @@
 
               <ul class="planes">
                 <li><p>Diseño unico</p></li>
-                <li><p>5 Páginas internas</p></li>
+                <li><p>6 Páginas internas</p></li>
                 <li><p>3 Cuentas de correo</p></li>
               </ul>
 
@@ -94,7 +94,7 @@
           <div id="tab2">
             <div class="four columns offset-by-one">
               <h3><span>PLAN</span> <strong>EMPRESARIAL</strong></h3>
-              <p>Este es nuestro plan más vendido y con el obtienes todas las ventajas del plan personal y mucho más, ideal para empresas con alguna trayectoria importante en el mercado.</p>
+              <p>Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet. Nuestros diseños son exclusivos por esto siempre entregamos un producto diferente.</p>
 
               <ul class="planes">
                 <li><p>Diseño unico</p></li>
@@ -118,7 +118,7 @@
             <div class="four columns offset-by-one">
               <h3><span>A</span> <strong>MEDIDA</strong></h3>
               <p>Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
-              <p>Este es nuestro plan más vendido y con el obtienes todas las ventajas del plan personal y mucho más, ideal para empresas con alguna trayectoria importante en el mercado.</p>
+              <p>Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet. Nuestros diseños son exclusivos por esto siempre entregamos un producto diferente.</p>
 
               <div class="boton-principal">
                 <a class="button-green" href="#">MAS INFORMACIÓN</a>
@@ -260,12 +260,12 @@
           <div id="tab1">
             <div class="four columns offset-by-one">
               <h3><span>CREACIÓN</span> <strong>DE MARCA</strong></h3>
-              <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar.</p>
+              <p>Una marca destaca, fortalece y genera confianza de tu empresa.</p>
 
               <ul class="planes">
-                <li><p>2 Propuestas de logo</p></li>
-                <li><p>Diseño papelería corporativa</p></li>
-                <li><p>Manual digital corporativo</p></li>
+                <li><p>Slogan</p></li>
+                <li><p>Diseño de logo</p></li>
+                <li><p>Creación de marca</p></li>  
               </ul>
 
               <div class="boton-principal">

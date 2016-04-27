@@ -17,7 +17,7 @@
 		<h2><span>PLAN</span> <strong>EMPRESARIAL</strong></h2>
 
 		<div class="padding-left-2">
-			<p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
+			<p>Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet. Nuestros diseños son exclusivos por esto siempre entregamos un producto diferente.</p>
 		
 			<h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 1.690.000</span></h3>
 		</div>
