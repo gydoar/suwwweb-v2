@@ -18,7 +18,7 @@
  				</div>
 
 				<ul class="pricing">
-					<li><p>5 Páginas internas</p></li>
+					<li><p>6 Páginas internas</p></li>
 					<hr>
 					<li><p>3 Cuentas de correo</p></li>
 					<hr>

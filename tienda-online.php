@@ -17,7 +17,7 @@
 		<h2><span>TIENDA</span> <strong>ONLINE</strong></h2>
 
 		<div class="padding-left-2">
-			<p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
+			<p>Con nosotros podrás tener desde un catálogo de productos hasta pagos en linea. Facilmente podrás modificar la información y tendrás un catálogo actualizado perfecto para cada temporada.</p>
 		</div>
 		
 		<ul class="planes">

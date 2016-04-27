@@ -106,7 +106,7 @@
 					<h2>PLAN PERSONAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
 				</a>	
 			</div>
 			
@@ -116,7 +116,7 @@
 					<h2>A MEDIDA</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
 				</a>	
 			</div>
 
@@ -126,7 +126,7 @@
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Con nosotros podrás tener desde un catálogo de productos hasta pagos en linea.</p>
 				</a>	
 			</div>
 		</div>

@@ -665,7 +665,7 @@ ul.tienda li:nth-child(2){
 	background-image: url(../images/bg-city.png);
 
 	background-repeat: no-repeat;
-	min-height: 362px;
+	min-height: 220px;
 	background-attachment: relative;
 	position: center center;
 	width: 100%;

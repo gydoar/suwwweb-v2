@@ -50,17 +50,17 @@
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-responsive.png" alt="">
 	 			<h5>DISEÑO UNICO Y RESPONSIVE</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>No utilizamos plantillas, por eso todos nuestros diseños son diferentes y utilizamos las tendencias móviles del mercado.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-dominio.png" alt="">
 	 			<h5>DOMINIO (.COM .NET)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Tu empresa necesita un nombre que lo represente en internet, por eso te entregamos de forma gratuita un dominio.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-hosting.png" alt="">
 	 			<h5>ALOJAMIENTO (HOSTING)</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Su página web estará alojada en centros de datos seguros y que garantizan mostrar su sitio web en tiempos muy cortos.</p>
 	 		</div>
 	 	</div>
 
@@ -109,7 +109,7 @@
 					<h2>PLAN EMPRESARIAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet.</p>
 				</a>	
 			</div>
 			
@@ -119,7 +119,7 @@
 					<h2>A MEDIDA</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
 				</a>	
 			</div>
 
@@ -129,7 +129,7 @@
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Con nosotros podrás tener desde un catálogo de productos hasta pagos en linea.</p>
 				</a>	
 			</div>
 		</div>

@@ -162,7 +162,7 @@
 
         <div class="padding-left">
           <h4>¿ESTAS PENSANDO EN COMERCIALIZAR TUS PRODUCTOS POR INTERNET?</h4>
-          <p>Con nosotros podrás tener desde un catálogo de productos hasta, pagos en linea. Facilmente podrás modificar la información y tendrás un catálogo actualizado perfecto para cada temporada.</p>
+          <p>Con nosotros podrás tener desde un catálogo de productos hasta pagos en linea. Facilmente podrás modificar la información y tendrás un catálogo actualizado perfecto para cada temporada.</p>
         </div>
         <div class="line__divi__tienda"></div><hr>
 

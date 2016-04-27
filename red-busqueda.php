@@ -3,7 +3,7 @@
 <div class="header-3">
 	<div class="container center">
 		<h3>RED DE BUSQUEDA</h3>
-		<h4>Esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus productos o servicios en la web.</h4>
+		<h4>Son todos los resultados de busqueda en Google donde puede aparecer tu anuncio dependiendo de los intereses de la busqueda.</h4>
 	</div>
 </div>
 
@@ -23,7 +23,7 @@
             <li><p>Análisis de competencia</p></li>
         </ul>
 
-        <h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 250.000</span></h3>
+        <h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 200.000</span></h3>
 		
         <div class="boton-principal center">
             <a class="button-green fancybox fancybox.iframe" href="contacto">ADQUIRIR</a>

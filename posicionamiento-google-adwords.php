@@ -18,9 +18,14 @@
 		<div class="row">
 			<div class="four columns offset-by-one margin-top-google padding-top-text-google left">
 				<h3>DE A CONOCER SU EMPRESA</h3>
-				<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
+
+				<p>
+					Recordación de marca <br>
+					Reconocimiento y prestigio en el mercado <br>
+					Visualización de portafolio 
+
 				</p>
+
 			</div>
 			<div class="two columns">
 				<div class="point-vertical"></div>
@@ -86,8 +91,11 @@
 			</div>
 			<div class="four columns margin-top-google padding-top-text-google right">
 				<h3>LLEGUÉLE A LAS PERSONAS INTERESADAS</h3>
-				<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
+				<p>
+					Llevamos tu sitio a los primeros lugares de Google <br>
+					Generamos mas trafico <br>
+					Mas Visitas, mas ventas
+
 				</p>
 			</div>
 		</div>
@@ -97,8 +105,11 @@
 		<div class="row">
 			<div class="four columns offset-by-one margin-top-google padding-top-text-google left">
 				<h3>AUMENTE LAS VENTAS DE SU EMPRESA</h3>
-				<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
+				<p>
+					Mas Visitas, mas clientes <br>
+					Informes mensuales para redefinir estrategia <br>
+				 	Segmentación estratégica de usuarios
+
 				</p>
 			</div>
 			<div class="two columns">
@@ -165,8 +176,10 @@
 			</div>
 			<div class="four columns margin-top-google padding-top-text-google right">
 				<h3>ANUNCIE EN CUALQUIER PARTE DEL MUNDO</h3>
-				<p>Es simplemente el texto de relleno de las imprentas y archivos de texto. 
-					Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500
+				<p>
+					Segmentamos tus anuncios demográficamente <br>
+					Anuncios en el idioma de tu publico objetivo <br>
+					Expande tu portafolio a nivel mundial.
 				</p>
 			</div>
 		</div>
@@ -186,28 +199,19 @@
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/google/icon-red-busqueda.png" alt="">
 	 			<h5>RED DE BUSQUEDA</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Son todos los resultados de busqueda en Google donde puede aparecer tu anuncio dependiendo de los intereses de la busqueda.</p>
 	 		</div>
 	 		<div class="four columns caja-select">
 	 			<img width="100px;" src="assets/images/google/icon-red-display.png" alt="">
 	 			<h5>RED DISPLAY</h5>
 	 			<div class="line-title-redes-google"><hr></div>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Son todas las páginas web y aplicaciones donde pueden aparecer los anuncios de AdWords.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/google/icon-red-youtube.png" alt="">
 	 			<h5>RED DE VIDEO YOUTUBE</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Llegue fácilmente a sus clientes con la potencia de la imagen, el sonido y el movimiento.</p>
 	 		</div>
-	 	</div>
-
-	 	<!-- Fila 3 -->
-	 	<div class="">
-	 		<ul class="items_small">
-	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;PROPUESTAS DE LOGO</p></li>
-	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;PAPELERIA CORPORATIVA</p></li>
-	 			<li><p><img src="assets/images/icons/icon-check.png" alt=""> &nbsp;&nbsp;APLICACIONES DE LA MARCA</p></li>
-	 		</ul>
 	 	</div>
 	 </div>
  </div>
@@ -243,7 +247,7 @@
 					<h2>PAGINAS WEB</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Construye con nosotros la página web de tu empresa, con un diseño unico utilizando los estándares del mercado actual.</p>
 				</a>	
 			</div>
 			
@@ -253,7 +257,7 @@
 					<h2>POSICIONAMIENTO</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Te ayudamos a mejorar la visibilidad de tu empresa en internet, con el objetivo de llegar y convertir a más clientes.</p>
 				</a>	
 			</div>
 
@@ -263,7 +267,7 @@
 					<h2>HOSTING</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Ofrecemos las mejores soluciones de Hosting y servidores Cloud para la seguridad de su empresa.</p>
 				</a>	
 			</div>
 		</div>
