@@ -3,7 +3,7 @@
 <div class="header-3">
 	<div class="container center">
 		<h3>RED DE BUSQUEDA</h3>
-		<h4>Son todos los resultados de busqueda en Google donde puede aparecer tu anuncio dependiendo de los intereses de la busqueda.</h4>
+		<h4>Son todos los resultados en Google donde puede aparecer tu anuncio dependiendo de los intereses de la búsqueda.</h4>
 	</div>
 </div>
 
@@ -18,9 +18,9 @@
 	</div>
 	<div class="four columns offset-by-one">
 		<ul class="planes">
-            <li><p>1 mes de optimización</p></li>
-            <li><p>Configuración y puesta en marcha de campaña.</p></li>
-            <li><p>Análisis de competencia</p></li>
+            <li><p>Diseño y creación de anuncios.</p></li>
+            <li><p>Configuración y puesta en marcha &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de campaña.</p></li>
+            <li><p>Inclusión de nuevos anuncios.</p></li>
         </ul>
 
         <h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 200.000</span></h3>
@@ -37,7 +37,6 @@
  <div class="todos__los__planes center">
  	<div class="container">
 		<h3><strong>CARACTERISTICAS RED DE BUSQUEDA</strong></h3>
-		<h4>Seguridad, escalabilidad, disponibilidad, fiabilidad y rendimiento.</h4>
 		<div class="eight columns offset-by-two line__todos__nuestros__planes"><hr></div>
 		<!-- Fila 1 -->
 	 	<div class="row items__todos__planes">
@@ -96,9 +95,11 @@
  <!-- // Caracteristicas como empresa -->
 
  <!-- Call to activon /Llamanos -->
- <div>
-   <?php include "parts-body/call-to-action-adquirir.php"; ?>
- </div>
+ <div class="call-to-action-adquirir">
+	<div class="container center">
+		<p><span>RED DE BUSQUEDA</span> IDEAL PARA PEQUEÑAS EMPRESAS  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="fancybox fancybox.iframe button-green-call" href="contacto">ADQUIRIR</a></p>
+	</div>
+</div>
  <!-- // Call to activon /Llamanos -->
 
  <!-- Preguntas Frecuentes -->
@@ -120,7 +121,7 @@
 					<h2>PLAN EMPRESARIAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet.</p>
 				</a>	
 			</div>
 			
@@ -130,7 +131,7 @@
 					<h2>A MEDIDA</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
 				</a>	
 			</div>
 
@@ -140,7 +141,7 @@
 					<h2>E-COMMERCE</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Con nosotros podrás tener desde un catálogo de productos hasta pagos en linea.</p>
 				</a>	
 			</div>
 		</div>

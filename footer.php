@@ -41,8 +41,8 @@
 			<div class="three columns">
 				<h5>Posicionamiento</h5>
 				<ul>
-					<li><a href="posicionamiento-google-adwords">Google - Red de búsqueda</a></li>
-					<li><a href="posicionamiento-google-adwords">Google - Red display</a></li>
+					<li><a href="red-busqueda">Google - Red de búsqueda</a></li>
+					<li><a href="red-display">Google - Red display</a></li>
 					<li><a href="posicionamiento-google-adwords">Google - Video Youtube</a></li>
 				</ul>
 			</div>
