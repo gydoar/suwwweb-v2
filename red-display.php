@@ -2,7 +2,7 @@
 
 <div class="header-3">
 	<div class="container center">
-		<h3>RED DISPLAY</h3>
+		<h3>POSICIONAMIENTO EN LA RED DE DISPLAY DE GOOGLE</h3>
 		<h4>Proyecta tus anuncios a traves de millones de sitios web</h4>
 	</div>
 </div>
@@ -85,7 +85,7 @@
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes.php"; ?>
+   <?php include "parts-body/preguntas-frecuentes-posicionamiento.php"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  

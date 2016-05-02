@@ -14,7 +14,7 @@
 
 				<p><strong>¡Cuentas de correo GRATIS!</strong></p>
 				<p class="padding-left-2">
-					Si, todos nuestros planes incluyen cuentas de correo <strong>gratis</strong> en la nube con una capacidad de 5GB por cada cuenta y la posibilidad de conectarlas con tu móvil o PC.
+					Todos nuestros planes incluyen cuentas de correo <strong>gratis</strong> en la nube con una capacidad de 5GB por cada cuenta y la posibilidad de conectarlas con tu móvil o PC.
 				</p>
 			</div>
 			

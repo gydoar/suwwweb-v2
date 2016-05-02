@@ -230,7 +230,7 @@
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes.php"; ?>
+   <?php include "parts-body/preguntas-frecuentes-posicionamiento.php"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  

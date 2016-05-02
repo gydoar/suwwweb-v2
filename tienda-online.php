@@ -51,24 +51,23 @@
  <div class="todos__los__planes center">
  	<div class="container">
 		<h3><strong>CARACTERÍSTICAS TIENDA ONLINE</strong></h3>
-		<h4>Seguridad, escalabilidad, disponibilidad, fiabilidad y rendimiento.</h4>
 		<div class="eight columns offset-by-two line__todos__nuestros__planes"><hr></div>
 		<!-- Fila 1 -->
 	 	<div class="row items__todos__planes">
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-carrito.png" alt="">
 	 			<h5>CARRITO DE COMPRAS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Selecciona y agrega productos a tu canasta, tan sencillo como un click.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-pago-online.png" alt="">
 	 			<h5>PAGIOS ONLINE</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Vende tus productos de manera inmediata.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-seguridad-tran.png" alt="">
 	 			<h5>SEGURIDAD EN TRANSACCIONES</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Esta siempre tranquilo, tus transacciones cuentan protocolos de seguridad antifraude.</p>
 	 		</div>
 	 	</div>
 
@@ -124,7 +123,7 @@
 					<h2>PLAN PERSONAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
 				</a>	
 			</div>
 			
@@ -134,7 +133,7 @@
 					<h2>PLAN EMPRESARIAL</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Nuestros desarrollos contemplan todas aquellas herramientas que las empresas buscan y necesitan para una presencia activa en internet.</p>
 				</a>	
 			</div>
 
@@ -144,7 +143,7 @@
 					<h2>A MEDIDA</h2>
 					<div class="eight columns offset-by-two line__otros__productos__2"><hr></div>
 
-					<p class="twelve columns">Su posicionamiento natural en buscadores es tan importante como la imagen de su empresa.</p>
+					<p class="twelve columns">Para aquellas empresas que necesitan un plan que se ajuste a sus necesidades de negocio.</p>
 				</a>	
 			</div>
 		</div>

@@ -17,7 +17,7 @@
 		<h2><span>DISEÑO</span> <strong> DE LOGO</strong></h2>
 
 		<div class="padding-left-2">
-			<p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
+			<p>Es la primera impresión que se lleva un cliente de nuestra empresa o producto y define inevitablemente su futura relación con estos.</p>
 		
 			<h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 450.000</span></h3>
 		</div>
@@ -43,7 +43,7 @@
 	<div class="center">
 		<h3><strong>MANUAL DE IMAGEN CORPORATIVO</strong></h3>
 
-		<h4>Es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor.</h4>
+		<h4>Te ofrecemos un diseño de Imagen fresco, limpio, moderno y contundente, que contenga  la esencia de tu Empresa.</h4>
 	</div>
 	<div class="eight columns offset-by-two line__nuestros__proyectos"><hr></div>
 
@@ -53,7 +53,7 @@
 	<div class="four columns offset-by-one">
 
 		<div class="padding-left-2">
-			<p>Este plan esta diseñado a tus necesidades de emprendedor para que de esta manera comiences a dar a conocer tus.</p>
+			<p>Elaboramos el manual de imagen corporativa con las aplicaciones de: color, usabilidad y material comercial (brochure)</p>
 		
 			<h3>PRECIO&nbsp;&nbsp;&nbsp; <span>$ 1.500.000</span></h3>
 		</div>
@@ -79,17 +79,17 @@
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-construccion.png" alt="">
 	 			<h5>CONSTRUCCIÓN</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Establecer la totalidad del significado de la marca con los parametros requeridos.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-tipografia.png" alt="">
 	 			<h5>TIPOGRAFÍAS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Es un elemento que aporta homogeneidad y armonía a todos los soportes contemplados.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="100px;" src="assets/images/todos-los-planes/icon-aplicaciones.png" alt="">
 	 			<h5>APLICACIONES CROMÁTICAS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>El color es un elemento fundamental para identificar y personalizar la marca.</p>
 	 		</div>
 	 	</div>
 
@@ -118,7 +118,7 @@
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes.php"; ?>
+   <?php include "parts-body/preguntas-frecuentes-imagen.php"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  

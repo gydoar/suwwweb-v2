@@ -2,8 +2,8 @@
 
 <div class="header-3">
 	<div class="container center">
-		<h3>RED DE BUSQUEDA</h3>
-		<h4>Son todos los resultados en Google donde puede aparecer tu anuncio dependiendo de los intereses de la búsqueda.</h4>
+		<h3>POSICIONAMIENTO EN LA RED DE BUSQUEDA DE GOOGLE</h3>
+		<h4>Son todos los resultados en Google donde puede aparecer tu anuncio.</h4>
 	</div>
 </div>
 
@@ -43,17 +43,17 @@
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/creacion-anuncios.png" alt="">
 	 			<h5>CREACIÓN DE ANUNCIOS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Realizamos una estrategia de anuncios que apunte hacia sus objetivos comerciales.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/configuracion-anuncios.png" alt="">
 	 			<h5>CONFIGURACIÓN DE ANUNCIOS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Optimizar y rotar cada uno de los anuncios para tener un mejor rendimiento.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/enlace-sitio.png" alt="">
 	 			<h5>ENLACE CON TU SITIO WEB</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Se crea una campaña para cada servicio o producto.</p>
 	 		</div>
 	 	</div>
 
@@ -61,17 +61,17 @@
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/google-analytics.png" alt="">
 	 			<h5>GOOGLE ANALYTICS</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Analiza la actividad de los clientes en tu sitio web.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/analisis-palabras.png" alt="">
 	 			<h5>ANÁLISIS DE PALABRAS CLAVES</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Agregamos o descartamos palabras y analizamos su rendimiento.</p>
 	 		</div>
 	 		<div class="four columns">
 	 			<img width="70px;" src="assets/images/icons/google-adwords/orientacion-geografica.png" alt="">
 	 			<h5>ORIENTACIÓN GEOGRÁFICA</h5>
-	 			<p>Es simplemente el texto de relleno de las imprentas y archivos de texto.</p>
+	 			<p>Permite mostrar sus anuncios en una ubicación especifica.</p>
 	 		</div>
 	 	</div>
 
@@ -104,7 +104,7 @@
 
  <!-- Preguntas Frecuentes -->
  <div>
-   <?php include "parts-body/preguntas-frecuentes.php"; ?>
+   <?php include "parts-body/preguntas-frecuentes-posicionamiento.php"; ?>
  </div>
  <!-- // Preguntas Frecuentes -->
  
