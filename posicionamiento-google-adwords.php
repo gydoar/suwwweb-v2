@@ -196,21 +196,27 @@
  		</div>
 		<!-- Fila 1 -->
 	 	<div class="row items__todos__planes">
-	 		<div class="four columns">
-	 			<img width="100px;" src="assets/images/google/icon-red-busqueda.png" alt="">
-	 			<h5>RED DE BUSQUEDA</h5>
-	 			<p>Son todos los resultados de busqueda en Google donde puede aparecer tu anuncio dependiendo de los intereses de la busqueda.</p>
+	 		<div class="four columns caja-select">
+	 			<a href="red-busqueda">
+		 			<img width="100px;" src="assets/images/google/icon-red-busqueda.png" alt="">
+		 			<h5>RED DE BUSQUEDA</h5>
+		 			<p>Son todos los resultados de busqueda en Google donde puede aparecer tu anuncio dependiendo de los intereses de la busqueda.</p>
+	 			</a>
 	 		</div>
 	 		<div class="four columns caja-select">
-	 			<img width="100px;" src="assets/images/google/icon-red-display.png" alt="">
-	 			<h5>RED DISPLAY</h5>
-	 			<div class="line-title-redes-google"><hr></div>
-	 			<p>Son todas las páginas web y aplicaciones donde pueden aparecer los anuncios de AdWords.</p>
+	 			<a href="red-display">
+		 			<img width="100px;" src="assets/images/google/icon-red-display.png" alt="">
+		 			<h5>RED DISPLAY</h5>
+		 			<div class="line-title-redes-google"><hr></div>
+		 			<p>Son todas las páginas web y aplicaciones donde pueden aparecer los anuncios de AdWords.</p>
+	 			</a>
 	 		</div>
-	 		<div class="four columns">
-	 			<img width="100px;" src="assets/images/google/icon-red-youtube.png" alt="">
-	 			<h5>RED DE VIDEO YOUTUBE</h5>
-	 			<p>Llegue fácilmente a sus clientes con la potencia de la imagen, el sonido y el movimiento.</p>
+	 		<div class="four columns caja-select">
+	 			<a href="">
+		 			<img width="100px;" src="assets/images/google/icon-red-youtube.png" alt="">
+		 			<h5>RED DE VIDEO YOUTUBE</h5>
+		 			<p>Llegue fácilmente a sus clientes con la potencia de la imagen, el sonido y el movimiento.</p>
+		 		</a>
 	 		</div>
 	 	</div>
 	 </div>

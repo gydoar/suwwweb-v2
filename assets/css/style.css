@@ -403,7 +403,12 @@ ul.medios-pagos li, ul.medios-pagos li p{
 	vertical-align: text-top;
 }
 /* simplificados */
-
+.items__todos__planes a{
+	text-decoration: none;
+}
+.items__todos__planes a h5{
+	color: #002637;
+}
 .center{
 	text-align: center;
 }
