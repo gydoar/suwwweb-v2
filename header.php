@@ -66,7 +66,6 @@
 <body>
 
   <header>
-  <?php if(isset($result)) { echo $result; } ?>
     <div class="container">
       <div class="three columns logo">
         <a  href="/"><img class="twelve columns" src="assets/images/logo.png" alt=""></a>

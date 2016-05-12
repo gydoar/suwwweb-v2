@@ -23,7 +23,7 @@
             $errors[6] = '<span class="error">Ingrese su mensaje</span>';
 
         }else{
-            $dest = "andresv@suwwweb.com"; //Email de destino
+            $dest = "fredy@suwwweb.com"; //Email de destino
             $nombre = $_POST['nombre'];
             $email = $_POST['email'];
             $empresa = $_POST['empresa'];
@@ -92,7 +92,7 @@
 		
 		<div class="container center">
 			<form action="" method="post">
-
+			<?php if(isset($result)) { echo $result; } ?>
 				<div><input type="text" name="nombre" class="nombre twelve columns" placeholder="Nombre y apellidos" value="<?php if(isset($_POST['nombre'])){ echo $_POST['nombre']; } ?>"><?php if(isset($errors)){ echo $errors[1]; } ?></div>
 
 				<div class="row">
