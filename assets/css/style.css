@@ -1231,7 +1231,35 @@ ul.pricing img{
 	border-top: 3px solid #00b8ff;
 	width: 60px;
 }
-
-
-
-
+/** Formulario cotizacion **/
+input.boton{
+	float: right;
+	background: #7fc639;
+	border: 0px;
+	color: #ffffff;
+	font-size: 16px;
+	border-radius: 20px;
+	padding: 0px 40px;
+}
+input.boton:hover{
+	color: #F2F2F2;
+}
+.error{
+	font-size: 12px;
+	background: #BC1010;
+	color: #ffffff;
+	padding: 6px 12px;
+	position: relative;
+	top: -10px;
+	border-radius: 4px;
+	letter-spacing: .5px;
+}
+.result_ok{
+	background: #1EA700;
+	color: #ffffff;
+	padding: 5px 10px;
+	font-size: 12px;
+	font-weight: bold;
+	border-radius: 4px;
+	letter-spacing: .5px;
+}
