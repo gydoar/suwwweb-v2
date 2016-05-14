@@ -77,7 +77,7 @@
           <li><a href="paginas-web">PÁGINAS WEB</a></li>
           <li><a href="posicionamiento-google-adwords">POSICIONAMIENTO</a></li>
           <li><a href="imagen-corporativa">IMAGEN CORPORATIVA</a></li>
-          <li><a href="">PROYECTOS</a></li>
+          <!--<li><a href="">PROYECTOS</a></li> -->
           <li><a class="fancybox fancybox.iframe" href="contacto">CONTACTENOS</a></li>
           <li><a class="fancybox fancybox.iframe" href="contacto"><img width="32px" src="assets/images/icons/icon-contact-white.png" alt=""></a></li>
         </ul>

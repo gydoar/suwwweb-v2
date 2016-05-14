@@ -56,9 +56,9 @@
 			<div class="three columns">
 				<br>
 				<ul><br>
-					<li><a href="imagen-corporativa">Preguntas frecuentes</a></li>
-					<li><a href="imagen-corporativa">Proyectos realizados</a></li>
-					<li><a href="imagen-corporativa">Contáctenos</a></li>
+					<li><a href="#">Preguntas frecuentes</a></li>
+					<!--<li><a href="#">Proyectos realizados</a></li> -->
+					<li><a class="fancybox fancybox.iframe" href="contacto">Contáctenos</a></li>
 				</ul>
 			</div>
 		</div>

@@ -23,7 +23,7 @@
             $errors[6] = '<span class="error">Ingrese su mensaje</span>';
 
         }else{
-            $dest = "fredy@suwwweb.com"; //Email de destino
+            $dest = "info@suwwweb.com"; //Email de destino
             $nombre = $_POST['nombre'];
             $email = $_POST['email'];
             $empresa = $_POST['empresa'];
