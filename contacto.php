@@ -46,6 +46,7 @@
                 $_POST['telefono'] = '';
                 $_POST['cargo'] = '';
                 $_POST['mensaje'] = '';
+                
               ?>
                 <!-- Google Code for suWWWeb Conversion Page -->
 				<script type="text/javascript">
@@ -68,7 +69,7 @@
 				</div>
 				</noscript>
 
-<?php
+			<?php
 
             }else{
                 $result = '<div class="result_fail">Hubo un error al enviar el mensaje </div>';
